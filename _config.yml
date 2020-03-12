@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 白知猫
-subtitle:OUK的世界
-description:随心随意
-author: OUK
+title: NexT
+subtitle:
+description:
+author: John Doe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -16,7 +16,7 @@ date_format: '%Y-%m-%d'
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url:
 baseurl:
-permalink: 
+permalink: pretty
 
 # Pagination
 paginate: 10
