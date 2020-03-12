@@ -233,7 +233,7 @@ social_icons:
 
 # Avatar (put the image into next/source/images/)
 # can be any image format supported by web browsers (JPEG,PNG,GIF,SVG,..)
-avatar:/default_avatar.png
+#avatar:/default_avatar.png
 
 
 # Table Of Contents in the Sidebar
